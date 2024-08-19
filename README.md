@@ -1,4 +1,4 @@
-# MNIST-Dimensionality-Reduction
+# MNIST-Digit-Recognition
 This project explores dimensionality reduction techniques using the MNIST dataset. It applies both customized-PCA and customized-Kernel PCA algorithms implemented from scratch to analyze and visualize the data, reconstruct images, and assess the effectiveness of different kernels for digit classification.
 
 
